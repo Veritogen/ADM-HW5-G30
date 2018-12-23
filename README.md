@@ -6,9 +6,13 @@ In this assignment we perform an analysis of the Wikipedia Hyperlink graph. In p
 For this purpose we use the Wikipedia graph released by the SNAP group.
 
 This homework is divided in two research questions, the  **first research question** consists in building a graph , where V is the set of articles and E the hyperlinks among them, and provide its basic information:
+
 -If it is direct or not
+
 -The number of nodes
+
 -The number of edges
+
 -The average node degree. Is the graph dense?
 
 
