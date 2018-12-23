@@ -16,9 +16,9 @@ This homework is divided in two research questions, the  **first research questi
 -The average node degree. Is the graph dense?
 
 
-In the **second research question**, given a category  as input we want to rank all of the nodes in V according to requested criteria and we obtain a block-ranking, where the blocks are represented by the categories.
+In the **second research question**, given a category  as input we want to rank all of the nodes in V according to requested criteria and we obtain a block-ranking, where the blocks are represented by the categories. Then we sort the articles that are contained in the categories by a score.
 
-Both the research questions are in the following (name).ipynb file
+Both the research questions are in the following HW5.ipynb file. The functions we used are contained in the functs.py file.
 
 
 ## Group members: Ziba Khani, Hannes Engelhardt, Giulia Maslov  
